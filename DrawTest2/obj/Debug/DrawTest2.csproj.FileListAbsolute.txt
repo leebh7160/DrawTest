@@ -1,0 +1,15 @@
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\bin\Debug\DrawTest2.exe.config
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\bin\Debug\DrawTest2.exe
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\bin\Debug\DrawTest2.pdb
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.csprojAssemblyReference.cache
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\MainWindow.g.cs
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\App.g.cs
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2_MarkupCompile.cache
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2_MarkupCompile.lref
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\MainWindow.baml
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.g.resources
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.Properties.Resources.resources
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.csproj.GenerateResource.cache
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.csproj.CoreCompileInputs.cache
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.exe
+C:\Users\leebh\Desktop\Draw\Draw2\DrawTest2\DrawTest2\obj\Debug\DrawTest2.pdb

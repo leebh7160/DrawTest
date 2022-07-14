@@ -1,0 +1,45 @@
+﻿<Window x:Class="DrawTest2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawTest2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel
+            Grid.Row="0"
+            Background="AliceBlue"
+            Orientation="Horizontal">
+            
+            <Button 
+                x:Name="BtnNone"
+                Width="50"
+                Height="20"
+                Margin="4"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"/>
+
+            <Button
+                x:Name="BtnInk"
+                Width="50"
+                Height="20"
+                Margin="4"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Content="Ink"/>
+        </StackPanel>
+
+        <Canvas
+            x:Name = "MainCanvas"
+            Grid.Row="1"
+            Background="White"
+            Focusable="True">
+        </Canvas>
+    </Grid>
+</Window>
